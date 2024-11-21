@@ -1,6 +1,11 @@
 package ejercicio;
 
 import java.util.Scanner;
+
+/* Este programa es una calculadora
+ * 
+ * */ 
+
 public class CalculadoraSimple {
 public static double sumar(double a, double b) {
 return a + b;
@@ -22,6 +27,8 @@ System.out.println("Resultado de la resta: " + resultadoResta);
 scanner.close();
 
 	// Cambio.
+// Cambio.
 
+// Nuevo cambio.
 }
 }
